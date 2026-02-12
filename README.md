@@ -92,7 +92,7 @@ You can use the `sys-fs/android-file-transfer-linux-9999` ebuild if you want the
 
   For Fedora:
   ```
-  dnf install make automake gcc gcc-c++ kernel-devel cmake fuse fuse-devel qt-devel readline-devel libqt5-linguist-devel
+  dnf install make automake gcc gcc-c++ kernel-devel cmake fuse3 fuse3-devel qt-devel readline-devel qt5-qttools-devel
   ```
 
 * Basically
